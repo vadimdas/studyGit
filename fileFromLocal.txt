@@ -9,5 +9,3 @@ content for merge with conflict in main and in feature branch
 content for rebase
 
 for rebase in main branch
-
-##some content for revert
